@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# leyardkamanga.github.io
-=======
 # Leyard Kamanga Portfolio
 
 This is the personal portfolio website for Leyard Kamanga, a Petroleum Geoscientist, GIS & Python Specialist, and Geospatial Innovator.

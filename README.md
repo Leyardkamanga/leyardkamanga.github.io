@@ -16,7 +16,7 @@ A modern, responsive portfolio website showcasing my expertise as a Petroleum Ge
 
 ## 🚀 Live Demo
 
-Visit the portfolio at: [Your GitHub Pages URL here]
+Visit the portfolio at: https://leyardkamanga.github.io
 
 ## 📁 Project Structure
 
